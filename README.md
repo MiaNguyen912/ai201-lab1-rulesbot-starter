@@ -1,4 +1,5 @@
 # 🎲 RulesBot
+![RulesBot Screenshot](./screenshot.png)
 
 > A board game rules assistant — because "just read the rulebook" isn't always helpful at 11pm on game night.
 
